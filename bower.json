@@ -1,0 +1,16 @@
+{
+  "name": "minnpost-recent-weather-presentation",
+  "version": "0.0.0",
+  "homepage": "https://github.com/zzolo/minnpost-recent-weather-presentation",
+  "authors": [
+    "Alan Palazzolo <github@zzolo.org>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "reveal.js": "~2.6.1",
+    "jquery": "~2.1.0",
+    "underscore": "~1.6.0"
+  }
+}
